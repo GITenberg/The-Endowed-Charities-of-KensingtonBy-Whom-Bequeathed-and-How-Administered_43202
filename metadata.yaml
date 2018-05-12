@@ -1,0 +1,25 @@
+_repo: The-Endowed-Charities-of-KensingtonBy-Whom-Bequeathed-and-How-Administered_43202
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daniel, Edward Morton
+    birthdate: 1848
+    gutenberg_agent_id: '42062'
+    url: http://www.gutenberg.org/2009/agents/42062
+description: ''
+gutenberg_issued: '2013-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Charities -- England -- London'
+title: 'The Endowed Charities of Kensington: By Whom Bequeathed, and How Administered'
+url: http://www.gutenberg.org/ebooks/43202
