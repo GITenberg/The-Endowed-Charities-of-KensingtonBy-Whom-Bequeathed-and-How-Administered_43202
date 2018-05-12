@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42062'
     url: http://www.gutenberg.org/2009/agents/42062
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43202#The-Endowed-Charities-of-KensingtonBy-Whom-Bequeathed-and-How-Administered
 gutenberg_issued: '2013-07-12'
 gutenberg_type: Text
 identifiers:
